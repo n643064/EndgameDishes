@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "endgame_dishes",
+  "version": "${version}",
+  "name": "Endgame Dishes",
+  "description": "Adds overpowered food items designed for mid to end game",
+  "authors": [],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/endgame_dishes/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "n643064.endgame_dishes.client.MainClient"
+    ],
+    "main": [
+      "n643064.endgame_dishes.Main"
+    ]
+  },
+  "mixins": [
+    "endgame_dishes.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
