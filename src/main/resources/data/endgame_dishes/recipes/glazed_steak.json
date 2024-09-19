@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "GGG",
+    "GMG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "endgame_dishes:honey_glaze"
+    },
+    "M": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "item": "endgame_dishes:glazed_steak",
+    "count": 1
+  }
+}

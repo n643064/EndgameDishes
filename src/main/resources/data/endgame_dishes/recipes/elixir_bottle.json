@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GWG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "result": {
+    "item": "endgame_dishes:elixir_bottle",
+    "count": 2
+  }
+}

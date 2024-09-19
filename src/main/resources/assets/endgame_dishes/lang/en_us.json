@@ -1,0 +1,24 @@
+{
+  "itemGroup.endgame_dishes.items": "Endgame Dishes",
+
+  "item.endgame_dishes.glistering_soup": "Glistering Soup",
+  "item.endgame_dishes.sea_berries": "Sea Berries",
+  "item.endgame_dishes.faerie_maltose": "Faerie Maltose",
+  "item.endgame_dishes.blazing_skewer": "Blazing Skewer",
+  "item.endgame_dishes.fried_egg": "Fried Egg",
+  "item.endgame_dishes.runny_egg_sandwich": "Runny Egg Sandwich",
+  "item.endgame_dishes.honey_glaze": "Honey Glaze",
+  "item.endgame_dishes.glazed_steak": "Glazed Steak",
+  "item.endgame_dishes.glazed_mutton": "Glazed Mutton",
+  "item.endgame_dishes.glazed_rabbit": "Glazed Rabbit",
+  "item.endgame_dishes.glazed_porkchop": "Glazed Porkchop",
+  "item.endgame_dishes.elixir_bottle": "Elixir Bottle",
+  "item.endgame_dishes.elixir_of_health": "Health Elixir",
+
+  "lore.glistering_soup": "Grants regeneration and heals when consumed",
+  "lore.sea_berries": "Grants water breathing, dolphin's grace and night vision when consumed",
+  "lore.faerie_maltose": "Grants levitation and slow falling at the expense of hunger when consumed",
+  "lore.blazing_skewer": "Grants fire resistance and absorption when consumed",
+  "lore.runny_egg_sandwich": "Protein rich and filling but high in cholesterol",
+  "lore.elixir_of_health": "Heals 5 health when consumed"
+}

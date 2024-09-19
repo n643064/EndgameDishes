@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "item": "minecraft:tropical_fish"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "endgame_dishes:glazed_rabbit"
+    }
+  ],
+  "result": {
+    "item": "endgame_dishes:glistering_soup",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    " B ",
+    "ECE",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "C": {
+      "item": "minecraft:cooked_beef"
+    },
+    "E": {
+      "item": "endgame_dishes:fried_egg"
+    }
+  },
+  "result": {
+    "item": "endgame_dishes:runny_egg_sandwich",
+    "count": 1
+  }
+}
